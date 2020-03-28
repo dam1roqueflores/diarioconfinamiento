@@ -6,3 +6,6 @@ Para ello:
 Clonaréis el repositorio origen
 Modificaréis el documento
 Notificaréis al autor su modificación
+
+
+	- Roque Flores https://github.com/dam1roqueflores/diarioconfinamiento
